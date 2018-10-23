@@ -1,3 +1,7 @@
+## Keras docummentation
+
+https://keras.io/
+
 ## To study later:
 
 Viola Jones algorithm
